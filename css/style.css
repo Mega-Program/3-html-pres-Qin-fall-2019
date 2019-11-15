@@ -138,3 +138,12 @@ figure {
 .w3-container1 {
     height: 50%
 }
+
+.shadow-dark {
+    text-shadow: 2px 2px #000
+}
+
+.shadow-light {
+    text-shadow: 2px 2px #fff
+}
+
